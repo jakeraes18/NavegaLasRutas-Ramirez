@@ -1,0 +1,40 @@
+.card {
+    width: 300px;
+    text-align: center;
+    background-color: #eaeeef;
+    margin-bottom: 10px;
+    height: 450px;
+}
+
+.titleProduct {
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.infoProduct {
+    background-color: white;
+    padding: 5px 20px;
+    text-align: left;
+    height: 250px;
+    position: relative;
+}
+
+.infoProduct .btnn {
+    position: absolute;
+    bottom: 20px;
+}
+
+.categoria {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.descrip {
+    text-align: left;
+    font-size: 15px;
+}
+
+.btnn {
+    font-weight: bold!important;
+}

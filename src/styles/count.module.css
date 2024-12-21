@@ -1,0 +1,20 @@
+.contador {
+    border-radius: 20px;
+    width: 135px;
+    border: 1px solid #00000042;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.contador button {
+    border: none;
+    background: white;
+    font-size: 25px;
+    padding: 0;
+}
+
+.contador p {
+    margin-bottom: 0;
+}
